@@ -1,7 +1,16 @@
 # MPG_CaseStudy
 this notebook is for educational purpose . in this notebook i will go through some statistical concept , try to get some statistical insight ,, clean the data ,EDA , and apply ML model
 
+## Table of Contents
+<ul>
+<li><a href="#intro">Introduction</a></li>
+<li><a href="#wrangling">Data Wrangling</a></li>
+<li><a href="#eda">Exploratory Data Analysis</a></li>
+<li><a href="#conclusions">Conclusions</a></li>
+<li><a href="#modeling">modeling</a></li>    
+</ul>
 
+<a id='intro'></a>
 ## Introduction
 
 ### Dataset Description 
@@ -32,6 +41,7 @@ this notebook is for educational purpose . in this notebook i will go through so
  > - the relation between model year and mpg
  > - the relation between origin and mpg
  
+ <a id='conclusions'></a>
  ### Conclusions about the data
 
 >- The most frequency cylinder is 4
